@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    top: 0;
+    width: 100%;
+    text-shadow: 5px, 5px, 5px, gray;
+    font-size:23px;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.copyright_footer {
+    width: 100%;
+    bottom: 0;
+    font-size: 17;
+    position: fixed;
+    background-color: black;
+    color: white;
+    text-shadow: 5px, 5px, 5px, gray;
+    font-style: italic;
+    padding: 15px;
+    margin-bottom: 0px;
+}
